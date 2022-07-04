@@ -1,4 +1,4 @@
-### Hi there 👋 I'am Eliana Méndez ✨ _special_ ✨
+### Hi there 👋 I'am Eliana Méndez ✨
 
 - 🔭 I’m currently working on Burguer Queen Api Client
 - 🌱 I’m currently learning Framework Angular and English language
